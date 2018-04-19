@@ -2,7 +2,7 @@
 mxnet_path = 'incubator-mxnet-bk/python/'
 gpu_list = [0, 1, 2, 3]
 dataset = "imagenet"
-model_prefix = "resnet-50-sss-sgd-0.01"
+model_prefix = "resnet-50-sss-0.01"
 network = "resnet"
 depth = 50
 model_load_prefix = model_prefix
