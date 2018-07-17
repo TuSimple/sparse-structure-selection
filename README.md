@@ -1,7 +1,7 @@
 # sparse-structure-selection
 
 This code is a re-implementation of the imagenet classification experiments in the paper [Data-Driven Sparse Structure Selection for Deep Neural Networks
-](https://arxiv.org/abs/1707.01213).
+](https://arxiv.org/abs/1707.01213) (ECCV2018).
 
 <div align="center">
   <img src="docs/sss.png" width="700px" />
@@ -10,11 +10,11 @@ This code is a re-implementation of the imagenet classification experiments in t
 ## Citation
 If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 ```
-@article{SSS2017
+@article{SSS2018
   author =   {Zehao Huang and Naiyan Wang},
   title =    {Data-Driven Sparse Structure Selection for Deep Neural Networks},
-  journal =  {arXiv preprint arXiv:1707.01213},
-  year =     {2017}
+  journal =  {ECCV},
+  year =     {2018}
 }
 ```
 
